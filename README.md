@@ -2,7 +2,7 @@
 
 The `Client` project sends a command to `Queue1` and shuts down.
 
-`Queue1` handles the command and send another command to `Queue2`
+`Queue1` handles the command and sends another command to `Queue2`
 
 `Queue2` handles the final command.
 
